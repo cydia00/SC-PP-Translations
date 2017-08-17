@@ -19,7 +19,7 @@
 	<key>APPEARANCE_SETTINGS_DESCRIPTION</key>
 	<string>إدارة المظهر سناب شات والأدوات الإضافية +</string>
 	<key>SNAPS_SETTINGS</key>
-	<string>إعدادات سناب بلس من ابو نذير</string>
+	<string>إعدادات سناب بلس </string>
 	<key>SNAPS_SETTINGS_DESCRIPTION</key>
 	<string>إعدادات للعرض والتفاعل مع السناب بلس</string>
 	<key>PRIVACY_SETTINGS</key>
@@ -131,7 +131,7 @@
 	<key>DISABLE_STORIES_AUTOSWITCH</key>
 	<string>تعطيل التشغيل التقائي للستوري</string>
 	<key>DISABLE_STORIES_AUTOSWITCH_DESC</key>
-	<string>لما تشوف الستوريات وتخلص وحدة مايروح للي بعدها من نفسه لين انت تظغط</string>
+	<string>عدم الانتقال التلقائي للستوري التالي </string>
 	<key>DONTSENDSTORYREADREQUEST</key>
 	<string>لاترسل طلب قراءة الستوري</string>
 	<key>DONTSENDSTORYREADREQUEST_DESCRIPTION</key>
@@ -169,7 +169,7 @@
 	<key>FILTERFACESSETTINGS</key>
 	<string>اعدادات الفلاتر والوجوه</string>
 	<key>FILTERFACESSETTINGS_DESCRIPTION</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<string></string>
 	<key>GP_SAVE_TO_ALBUM</key>
 	<string>حفظ لالبوم بجهازك</string>
 	<key>GP_SAVE_TO_CAMERA_ROLL</key>
@@ -177,7 +177,7 @@
 	<key>GP_SAVE_TO_VAULT</key>
 	<string>Save to SC+ Vault</string>
 	<key>HEY_THERE_ALERT</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+	<string></string>
 	<key>HIDE_DISCOVER_STORIES</key>
 	<string>اخفاء ديسكفري</string>
 	<key>HIDE_DISCOVER_STORIES_DESC</key>
@@ -189,7 +189,7 @@
 	<key>HIDE_SNAP_TIMER</key>
 	<string>اخفاء موقت السنابات</string>
 	<key>HIDE_SNAP_TIMER_DESC</key>
-	<string>ازالة موقت سنابات من اعلى يمين الشاشة</string>
+	<string>ازالة مؤقت سنابات من اعلى يمين الشاشة</string>
 	<key>HOUR</key>
 	<string>حط الساعة</string>
 	<key>INCOMING_MEDIA</key>
@@ -235,7 +235,7 @@
 	<key>PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION</key>
 	<string>ادخال كلمة السر لعرض السنابات</string>
 	<key>PAYMENT_CONFIRMATION</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<string> </string>
 	<key>PAYMENT_OK</key>
 	<string>طيب</string>
 	<key>PAYMENT_THANK_YOU_TITLE</key>
@@ -251,7 +251,7 @@
 	<key>RECORDING_LENGTH</key>
 	<string>زيادة مدة تصوير الفيديو</string>
 	<key>RECORDING_LENGTH_DESC</key>
-	<string>زيادة طول تسجيل فيديو من 10 ثواني الى خمشين ثانية</string>
+	<string>زيادة طول تسجيل فيديو من 10 ثواني الى خمسين ثانية</string>
 	<key>RIGHT_LAUNCH_VIEW</key>
 	<string>الستوريات</string>
 	<key>SAVED</key>
@@ -344,7 +344,7 @@
 	<key>SUPPORT_HEADER</key>
 	<string>دعم</string>
 	<key>SUPPORT_REMOVE_ADS_TITLE</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<string> ازالة الاعلانات</string>
 	<key>SYNC_WITH_DROPBOX</key>
 	<string>مزامنة مع الدروب بوكس</string>
 	<key>TAP_TO_RECORD_VIDEOS</key>
@@ -360,14 +360,13 @@
 	<key>TWEETED</key>
 	<string>تويت</string>
 	<key>TWEET_TO_REMOVE_ADS</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+	<string>تغريدة لازالة الاعلانات مؤقتا</string>
 	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<string></string>
 	<key>WARNING</key>
 	<string>تحذير!</string>
 	<key>SC_MOHADU_MESSAGE_TITLE</key>
 	<string>مرحباً بكم</string>
-	<key>SC_MOHADU_MESSAGE</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+
 </dict>
 </plist>
